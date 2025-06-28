@@ -1,0 +1,10 @@
+{
+    "epoch": 13,
+    "train_loss": 0.1148504564166069,
+    "train_accuracy": 0.137234375,
+    "val_loss": 0.11775037848949432,
+    "val_accuracy": 0.125078125,
+    "time": 424.2755115032196,
+    "num_train_batches": 250,
+    "num_val_batches": 63
+}
